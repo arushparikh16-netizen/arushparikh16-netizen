@@ -2,65 +2,174 @@
 
 ### Aspiring AI/ML Engineer | CSE Student
 
-I'm a Computer Science student focused on **Machine Learning, Data Science, DSA, and building practical projects.**
+I'm a Computer Science student passionate about **Machine Learning, Data Science, DSA, and building practical projects.**
 
-- 🤖 Learning and building Artificial Intelligence and Machine Learning projects
-- 🧠 Practicing DSA & problem solving
-- 📊 Exploring Data Science & SQL
+- 🤖 Learning and building Machine Learning projects
+- 🧠 Practicing DSA and problem-solving
+- 📊 Exploring Data Science, SQL, and data visualization
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,mysql)](https://skillicons.dev)
+### 💻 Languages
 
-### ML & Data
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn)](https://skillicons.dev)
+<p align="left">
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
+</a>&nbsp;
 
-### Web & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode,jupyter)](https://skillicons.dev)
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/>
+</a>&nbsp;
+
+<a href="https://en.cppreference.com/w/c/language">
+<img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/>
+</a>&nbsp;
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/>
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
+</a>&nbsp;
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
+</a>
+</p>
+
+<p>
+<sub>Python · C++ · C · Java · JavaScript · MySQL</sub>
+</p>
+
+### 📊 ML & Data Science
+
+<p align="left">
+<a href="https://numpy.org/">
+<img src="https://cdn.simpleicons.org/numpy/4D77CF" width="48" height="48" alt="NumPy"/>
+</a>&nbsp;
+
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
+</a>&nbsp;
+
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-learn"/>
+</a>&nbsp;
+
+<a href="https://matplotlib.org/">
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
+</a>&nbsp;
+
+<a href="https://jupyter.org/">
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/>
+</a>
+</p>
+
+<p>
+<sub>NumPy · Pandas · Scikit-learn · Matplotlib · Jupyter</sub>
+</p>
+
+### 🌐 Web & Tools
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/>
+</a>&nbsp;
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
+</a>&nbsp;
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+</a>&nbsp;
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
+</a>
+</p>
+
+<p>
+<sub>HTML5 · CSS3 · Git · GitHub · VS Code</sub>
+</p>
 
 ---
 
 ## 🚀 Projects
 
 ### 🤖 AI Word Scanner
-A web-based AI tool for scanning and analyzing text.
 
-**HTML • CSS • JavaScript • AI**
+A web-based AI tool for scanning and analyzing **text, screenshots, and documents**.
+
+**Tech:** HTML · CSS · JavaScript · AI
 
 🔗 [Live Demo](https://arushparikh16-netizen.github.io/aiwordscanner/)
 
-### 🏠 House Price Prediction
-Machine learning project using regression techniques, feature engineering, preprocessing, and model comparison.
+---
 
-**Python • Pandas • NumPy • Scikit-learn**
+### 🏠 House Price Prediction
+
+A Machine Learning project using **regression techniques, feature engineering, data preprocessing, and model comparison** to predict house prices.
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn
+
+🔗 [GitHub Repository](https://github.com/arushparikh16-netizen/House-Price-Prediction)
+
+---
 
 ### 🏏 IPL Data Analysis
-Data analysis and visualization project exploring IPL match and player statistics.
 
-**Python • Pandas • NumPy • Matplotlib**
+A data analysis project exploring **IPL match and player statistics** through data processing, analysis, and visualization.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib
+
+🔗 [GitHub Repository](https://github.com/arushparikh16-netizen/IPL-ANALYSIS)
+
+---
 
 ### 🧮 CGPA Calculator
-A simple CGPA calculator that calculates semester/overall CGPA based on subject credits and grade points.
 
-**HTML • CSS • JavaScript**
+A simple web-based calculator for calculating **semester and overall CGPA** using subject credits and grade points.
+
+**Tech:** HTML · CSS · JavaScript
+
+🔗 [Live Demo](https://arushparikh16-netizen.github.io/CGPA-CALCULATOR/)
 
 ---
 
 ## 🧠 Currently Learning
 
-**Machine Learning • DSA • SQL • Data Science**
+- 🤖 Machine Learning Models
+- 🧩 Data Structures & Algorithms
+- 🗄️ SQL and Database Management
+- 📊 Data Analysis and Visualization
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<p align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arushparikh16-netizen)
+<a href="https://github.com/arushparikh16-netizen">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arush-parikh-a19313329/?isSelfProfile=true">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</p>
 
 ---
 
-### Learn • Build • Grow 🚀
+<p align="center">
+<b>Learn • Build • Grow 🚀</b>
+</p>
