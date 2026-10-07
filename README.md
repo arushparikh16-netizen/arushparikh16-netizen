@@ -8,7 +8,6 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 - 🧠 Practicing DSA and problem-solving
 - 📊 Exploring Data Science, SQL, and data visualization
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -41,13 +40,10 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 </a>
 </p>
 
-<p>
-<sub>Python · C++ · C · Java · JavaScript · MySQL</sub>
-</p>
-
 ### 📊 ML & Data Science
 
 <p align="left">
+
 <a href="https://numpy.org/">
 <img src="https://cdn.simpleicons.org/numpy/4D77CF" width="48" height="48" alt="NumPy"/>
 </a>&nbsp;
@@ -61,21 +57,18 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 </a>&nbsp;
 
 <a href="https://matplotlib.org/">
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" width="48" height="48" alt="Matplotlib"/>
 </a>&nbsp;
 
 <a href="https://jupyter.org/">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter Notebook"/>
 </a>
-</p>
-
-<p>
-<sub>NumPy · Pandas · Scikit-learn · Matplotlib · Jupyter</sub>
 </p>
 
 ### 🌐 Web & Tools
 
 <p align="left">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
 </a>&nbsp;
@@ -95,10 +88,6 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
 </a>
-</p>
-
-<p>
-<sub>HTML5 · CSS3 · Git · GitHub · VS Code</sub>
 </p>
 
 ---
@@ -162,7 +151,7 @@ A simple web-based calculator for calculating **semester and overall CGPA** usin
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/arush-parikh-a19313329/?isSelfProfile=true">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
