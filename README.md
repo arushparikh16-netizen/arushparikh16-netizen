@@ -61,10 +61,10 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 </a>&nbsp;
 
 <a href="https://jupyter.org/">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter Notebook"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter Notebook"/>
 </a>
-</p>
 
+</p>
 ### 🌐 Web & Tools
 
 <p align="left">
