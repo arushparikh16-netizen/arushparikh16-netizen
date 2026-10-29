@@ -62,6 +62,10 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 
 <a href="https://jupyter.org/">
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter Notebook"/>
+</a>&nbsp;
+
+<a href="https://streamlit.io/">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </a>
 
 </p>
@@ -95,6 +99,16 @@ I'm a Computer Science student passionate about **Machine Learning, Data Science
 
 ## 🚀 Projects
 
+### ❤️ Heart Disease Prediction Model
+
+An end-to-end Machine Learning project that predicts the possibility of heart disease using patient health parameters. Built with a trained Logistic Regression pipeline and an interactive Streamlit web application.
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Logistic Regression · Streamlit
+
+🔗 [Live Demo](https://heart-disease-prediction-model-3p3na49xb9vkwhab7fvd7l.streamlit.app/) · [GitHub Repository](https://github.com/arushparikh16-netizen/Heart-Disease-Prediction-Model)
+
+---
+
 ### 🤖 AI Word Scanner
 
 A web-based AI tool for scanning and analyzing **text, screenshots, and documents**.
@@ -112,16 +126,6 @@ A Machine Learning project using **regression techniques, feature engineering, d
 **Tech:** Python · Pandas · NumPy · Scikit-learn
 
 🔗 [GitHub Repository](https://github.com/arushparikh16-netizen/House-Price-Prediction)
-
----
-
-### 🏏 IPL Data Analysis
-
-A data analysis project exploring **IPL match and player statistics** through data processing, analysis, and visualization.
-
-**Tech:** Python · Pandas · NumPy · Matplotlib
-
-🔗 [GitHub Repository](https://github.com/arushparikh16-netizen/IPL-ANALYSIS)
 
 ---
 
@@ -163,3 +167,4 @@ A simple web-based calculator for calculating **semester and overall CGPA** usin
 <p align="center">
 <b>Learn • Build • Grow 🚀</b>
 </p>
+
